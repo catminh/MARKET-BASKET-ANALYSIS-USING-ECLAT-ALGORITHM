@@ -24,7 +24,7 @@ On the other hand, months like March and June had lower sales, possibly because 
 
     **Number of Orders per Month Chart**
   - December also had the highest number of orders, indicating more customers were purchasing.
-January had a high StockCode quantity but a lower number of orders, which could mean fewer customers were buying, but they purchased in larger quantities (possibly businesses or wholesale buyers). November ranked second in order volume, aligning with major sales events like Black Friday and Cyber Monday, when customer demand increases.
+January had a high StockCode quantity but a lower number of orders, which could mean fewer customers were buying, but they purchased in larger quantities (possibly businesses or wholesale buyers). November ranked second in order volume, aligning with major sales events like Black Friday, when customer demand increases.
 
 # ECLAT Agorithim
 
